@@ -10,7 +10,7 @@ title: Home
 
 
 
-Computer Engineering student at Virginia Tech interested in embedded systems and AI.
+Computer Engineering student at Virginia Tech interested in embedded systems, computer hardware and AI.
 
 
 
