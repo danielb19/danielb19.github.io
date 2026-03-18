@@ -6,11 +6,13 @@ title: Home
 
 
 
-\# Daniel Befekadu
+\ Daniel Befekadu | Virginia Tech Student | Graduating May 2027
+
+Email: danielbefekadu1@gmail.com
+Phone Number: 703-740-7388
 
 
-
-Computer Engineering student at Virginia Tech interested in embedded systems, computer hardware and AI.
+Computer Engineering undergraduate interested in embedded systems, computer hardware and AI and pusuing an internship for the summer of 2026.
 
 
 
