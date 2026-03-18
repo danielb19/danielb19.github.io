@@ -16,5 +16,5 @@ Computer Engineering student at Virginia Tech interested in embedded systems, co
 
 \- \[LinkedIn] <a href="https://www.linkedin.com/in/daniel-befekadu-b27b07290" target="_blank">LinkedIn</a>
 
-\- \[GitHub](https://github.com/danielb19)
+\- \[GitHub] <a href="https://github.com/danielb19" target="_blank">GitHub</a>
 
