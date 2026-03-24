@@ -6,9 +6,10 @@ title: Home
 
 
 
-\ Daniel Befekadu | Virginia Tech Student | Graduating May 2027
+ Daniel Befekadu | Virginia Tech Student | Graduating May 2027
 
 Email: danielbefekadu1@gmail.com
+
 Phone Number: 703-740-7388
 
 
